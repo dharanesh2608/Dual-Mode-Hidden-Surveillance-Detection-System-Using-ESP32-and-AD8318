@@ -11,10 +11,10 @@ The system is built using an ESP32 microcontroller, which processes signals from
 ## Device Images  
 
 ### Hardware Setup  
-![Hardware Setup](images/devicepic1.jpg)
+![Device](images/devicepic1.jpg)
 
 ### Working Device  
-![Device](images/devicepic2.jpg)
+![hardware setup](images/devicepic2.jpg)
 
 ---
 
